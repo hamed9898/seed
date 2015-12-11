@@ -224,23 +224,20 @@ function create_config( )
     realm = {},--Realms Id
     moderation = {data = 'data/moderation.json'},
     about_text = [[Teleseed v1
-An advance Administration bot based on yagop/telegram-bot 
+An advance Administration bot based on TeleSeed 
 
-https://github.com/SEEDTEAM/TeleSeed
 
 Admins
-@iwals [Founder]
-@imandaneshi [Developer]
-@seyedan25 [Manager]
+@tehran980 [Founder][Developer][Manager]
 
 Special thanks to
 awkward_potato
 Siyanew
 topkecleon
-Vamptacus
+imandaneshi
 
 Our channels
-@teleseedch [English]
+@game_overbot [persian]
 ]],
     help_text = [[
 Commands list :
